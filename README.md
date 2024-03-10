@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nifemi Asaolu</h1>
-<h3 align="center">An innovative and fun-loving frontend developer</h3>
+<h3 align="center">An innovative frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nifemiasaolu&label=Profile%20views&color=0e75b6&style=flat" alt="nifemiasaolu" /> </p>
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1i9yVlh1-TXHi5Ah3rhnLRfJWIXUSK4SBFpGa7mRGX94/edit?usp=drive_link](https://docs.google.com/document/d/1i9yVlh1-TXHi5Ah3rhnLRfJWIXUSK4SBFpGa7mRGX94/edit?usp=drive_link)
 
-- ⚡ Fun fact: **I'm ambidextrous and have a great sense of humor**
+- ⚡ Fun fact: **Eat with left, write with right hand(and left) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
