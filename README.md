@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1i9yVlh1-TXHi5Ah3rhnLRfJWIXUSK4SBFpGa7mRGX94/edit?usp=drive_link](https://docs.google.com/document/d/1i9yVlh1-TXHi5Ah3rhnLRfJWIXUSK4SBFpGa7mRGX94/edit?usp=drive_link)
 
-- ⚡ Fun fact: **Eat with left, write with right hand(and left) **
+- ⚡ Fun fact: ** Eats with left hand, writes with both left and right **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
