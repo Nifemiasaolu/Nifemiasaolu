@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/nifemi_asaolu" target="blank"><img src="https://img.shields.io/twitter/follow/nifemi_asaolu?logo=twitter&style=for-the-badge" alt="nifemi_asaolu" /></a> </p>
 
-- 🔭 I’m currently working on **Delta Security Project**
+- 🔭 I’m currently working on **Some Java Project**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Core Java**
 
 - 👯 I’m looking to collaborate on **open source projects, startup projects or any great idea.**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **theophilusasaolu@gmail.com**
 
